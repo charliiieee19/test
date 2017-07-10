@@ -164,6 +164,6 @@ public class PosUI extends JFrame {
 	        g.fillRoundRect(0, yOffset, size.width, size.height + yOffset - 5, 10, 10);
 	    }
 	}
-	 
+	 //idiotcarlo
 }
 
